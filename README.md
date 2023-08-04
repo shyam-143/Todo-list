@@ -1,6 +1,8 @@
 **TODO List App**
 The TODO List app is a simple web application that allows users to manage their daily tasks. Users can add new tasks, mark tasks as completed or incomplete, and delete tasks as needed.
 
+![Screenshot 2023-08-05 003738](https://github.com/shyam-143/Todo-list/assets/109901432/e06fcdd3-dd3b-47bd-83ea-01aab03d37fd)
+
 **Functionalities**
 Add Task: Users can enter a new task in the input field and click the "Add" button to add it to the list.
 
