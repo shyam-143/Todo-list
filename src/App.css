@@ -1,0 +1,35 @@
+header {
+
+  text-align: center;
+}
+
+header h1 {
+  font-size: 100px;
+  color: #2c3e50;
+  font-weight: 200;
+}
+
+/* App.css */
+.card {
+  background-color: #f8f9fa; /* Light gray background color for the card */
+  border-radius: 10px; /* Rounded corners for the card */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for the card */
+}
+
+.card-header {
+  background-color: #007bff; /* Blue header background color */
+  color: white; /* Text color for the header */
+  padding: 1rem; /* Add some padding to the header */
+  border-top-left-radius: 10px; /* Rounded corners for the top-left and top-right */
+  border-top-right-radius: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue button background color */
+  border-color: #007bff; /* Blue button border color */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue when hovering over the button */
+  border-color: #0056b3;
+}
